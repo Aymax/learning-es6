@@ -300,7 +300,7 @@ for (let teenageYear of range(13, 7)) {
 }
 ```
 
-**More info:** [Blog post](http://www.benmvp.com/2016/01/learning-es6-generators-as-iterators.html) | [Browser examples](http://benmvp.github.io/learning-es6/#generators) | [Source code](https://github.com/benmvp/learning-es6/blob/master/examples/es6/generators-as-iterators.js)
+**More info:** [Blog post](http://www.benmvp.com/2016/01/learning-es6-generators-as-iterators.html) | [Browser examples](http://benmvp.github.io/learning-es6/#generators) | [Iterators source code](https://github.com/benmvp/learning-es6/blob/master/examples/es6/generators-as-iterators.js) | [Observers source code](https://github.com/benmvp/learning-es6/blob/master/examples/es6/generators-as-observers.js)
 
 
 ## Iterators & iterables
